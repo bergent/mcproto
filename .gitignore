@@ -1,0 +1,7 @@
+# Build folder 
+build/
+
+# Neovim genearted files
+.cache/
+compile_commands.json
+neovim.json
